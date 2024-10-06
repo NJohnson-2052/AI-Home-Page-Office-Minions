@@ -1,0 +1,73 @@
+CSS-
+
+body {
+    font-family: 'Space Grotesk', 'Arial', 'Times New Roman';
+
+    background-color: #efeeef
+}
+
+nav li {
+  display: inline;
+    margin-right: 70px;
+   text-align: center
+}
+tr,td,th {
+   text-align: left
+}
+
+.p-border{
+    border: 2px #4d4f48;
+    border-style: solid;
+   padding: 20px;
+    background-color:#9aceeb;
+}
+
+nav,
+footer {
+    clear: both;
+    background-color: #595a54;
+    color: #f6f4f7;
+    height: 30px;
+}
+footer {
+    height: 50px;
+    font-size: 80%;
+    padding: 7px 0px 0px 20px;
+}
+nav ul {
+    margin-top: -1px nav li a:hover color: #9aceeb
+}
+aside {
+    float: right;
+    width: 100px;
+    padding-left: 10px;
+    border-left: 2px solid #9aceeb
+}
+
+aside a {
+    display: block;
+    padding: 10px;
+    border-bottom: 2px solid lightblue;
+    transition-duration: .3s
+}
+
+
+aside {
+    float: right;
+    width: 350px;
+    padding-left: 20px;
+    letter-spacing: .2em}
+av li a:hover,
+.current {
+    color: red;
+    transition-duration: .7s
+}
+
+a:hover {
+    color: red;
+}
+
+a {
+    color: #9aceeb;
+    text-decoration: none;
+}
